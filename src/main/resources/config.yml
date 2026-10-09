@@ -1,0 +1,20 @@
+# MobVariant Configuration
+
+settings:
+  # Enable or disable the mob selection GUI
+  gui-enabled: true
+
+  # Allow players to receive and use custom variant spawn eggs
+  allow-spawning: true
+
+  # Consume one custom spawn egg when used in Survival
+  consume-egg: true
+
+  # Keep custom spawn eggs when used in Creative
+  creative-keep-egg: true
+
+  # Play a sound when opening the GUI
+  gui-sound: true
+
+  # Require permission to use the plugin
+  use-permission: true

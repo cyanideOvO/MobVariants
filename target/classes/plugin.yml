@@ -1,0 +1,13 @@
+name: MobVariant
+version: 1.0.0
+main: me.Cyanide.mobVariant.MobVariant
+api-version: '26.2'
+author: Cyanide
+description: A GUI plugin for selecting mob variants
+
+commands:
+  mobvariant:
+    description: Opens the MobVariant GUI
+    usage: /mobvariant
+    aliases:
+      - mobv
